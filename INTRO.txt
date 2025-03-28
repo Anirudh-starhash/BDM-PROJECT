@@ -1,0 +1,240 @@
+BDM capstone project is a independent research project where u have to collect data particular
+to business problem
+
+We need to approach a business can be structured or unstructured
+
+structured (organized ) is  example -> manufacturing automobile 
+unstructured  (unorganized) is  (small kirana shops )
+
+Analysis with primary data ->
+
+Preferable choices to approach is a [ unstructured business ]  we ask them and collect the data
+How Do you do that  ->  steps in data collection section !
+
+Before We reach out to a business we need to prepare field notes first
+
+Field Notes ->
+
+Whom Did You meet !
+What Did you discuss with them ?
+What is the Designation of the person  ?
+
+...... And related Questions .....
+
+ And then Understand what is the kind of business is it B2B or B2C  ( Business to Consumer )  !
+
+ B2B -> Business to Business !  and some can in both businesses !
+
+Reach out to them, introduce yourself  ( how later ) and then understand the problems they encounter !
+
+Based on problems understood by you , list down the problem which we feel more appealing to us and 
+we kinda use a data centric approach like in BDM theory course
+
+Next  ** we need to provide information about different variables collected as a part of data collection
+
+For Example if -> sales is going down we need to collect the various assessments why that is happening? -> one may be product portfolio that they have, pricing that they have, How  much is the sales happening in a particular month etc etc can be assessments
+
+Minimum time period for data collection should be not less than three months some time 6 months , sometime 1 year  ( if less than 3 months not possible to deduce any insights from that )
+
+ 1) Data Analysis 
+ 2) We do Data cleaning !  (next) then 
+ 3) perform data analysis
+
+For Data analysis don't use simple pareto charts  i.e every business knows that 80% problems is
+because of 20% issues    (80-20 RULE)
+
+If it is qualitative vs quantitative data  we can use box, whisker plots
+if quant vs quant scatter plots etc !
+
+4) Data Insights -> based on this we tell the business what is that they can keep doing , what can they avoid and what should be resolved or started freshly etc!
+
+Submission Phases 
+
+1) Proposal  (20%)
+2) Mid Evaluation  (20%)  ( Explanation of Data Collection and cleaning )  
+3) Final Submission  (40%)  (Analysis/ Interpretation of data )       (18-20) pages 
+4) Viva Voice  (20%)
+
+
+One Company either One large Problem or 2-3 shorter problems to be carry forwarded in the entire project
+
+1-5 of every month -> proposal submission   results by 10th
+6-10 -> midterm submission 
+11-15 -> final term
+
+Dates for me can be 
+
+1-5 Feb
+6-10 March
+11-15 April results by 20th
+25 April Viva voice  ( Option may be)
+
+
+Declaration Statement should be submitted at the start !  of the proposal !
+
+Proposal must be 4-5 pages long
+Atleast 2 objectives required in Proposal 
+
+Does Proposal discuss business problem -> should be Yes and plagiarism  < 20%
+
+PROPOSAL
+
+Executive Summary and Title  (200-250 words ) 15 marks
+Organization Background (150-200 ) 10 marks
+Problem Statement  (100-120 words )
+    Pointwise not paragraphs                     10 marks
+
+Background of the Problem   (10 marks )
+Problem Solving Approach  (45 marks )
+     Details about methods used with justification
+     Details about intended data collection with Justification 
+     Details about the analysis tools with Justification
+
+Expected Timeline - > WBS and Gantt Chart  (5 marks )
+Expected Outcome  (5 marks )
+
+
+
+
+MID TERM SUBMISSION -> 8-9 pages long
+
+Executive Summary and Title  (200-250 ) 15
+Proof of Originality of the Data - survey link , photograph, letter from organization etc  (10 marks )
+       Letter from organization in letter head with stamp and sign
+           Images of the firm/servicescape  (max of 5 )
+
+       A short video 3-8 mins interacting with the founder 
+
+Metadata  (20 marks  )
+Descriptive Statistics  (20 marks )
+Detailed Explanation of Analytics Process/Method-justification for the usage ,Why is this method more appropriate than the rest   (25 marks )
+
+Results and Findings   (Graphs and other Pictional Representation Preferred and with words )
+Clearly explaining the trends , what and why patterns that has been observed in the analysis   (10 marks )
+
+
+When drawing a graph -> consider why drawing this graph,  why these are the best choice graph , and why are these variables considered and  how is it likely going to solve out business statement
+
+
+FINAL SUBMISSION  (40 MARKS )  (18-20 PAGES LONG)
+
+Executive Summary and Title -> 15 marks
+Detailed Explanation of Analytics Processes/Method  (15 marks )
+Results and Findings  (Graphs and other Pictorial Representation) 40
+Interpretation of Results and Recommendation  (20 marks )
+Presentation and legibility of the report  (10 )
+ 
+
+For Analysis we can use Excel, R, Python etc
+
+
+
+VIVA-VOCE
+
+present a PPT pf 10 slides  (the project)
+Presentation Content  (30  marks)
+Presentation Quality  (10 marks)
+Presentation Flow  (10 marks)
+Presenter Communication Skills  (20 marks)
+Presenter ability to answer questions  (20 marks)
+Presenter's preparedness and confidence  (10 marks)
+
+
+Reference Textbooks ->
+
+Malhotra N  & Dash,   ( Marketing research : An applied approach Pearson)
+Newbold P  (2013)   Statistics for business and economics ,Pearson
+Wirtz, J  & Lovelock, C  (2021)  Services marketing ,People technology, strategy
+Operations Management : Processes and supply chain [ Twelfth Edition by Lee J Krajewski and others)
+
+ 
+
+In video with business owner/manager 
+
+we require , a short intro , problems business is facing , what did they do to solve it , was it recurring/ one time , what are their expectations from this project etc 
+
+Letter from the firm in letterhead with stamp and sign 
+How to provide -> submit the drive link 
+
+
+
+ **Every report need name and Roll Number
+ ** Times New Roman Font  (12) 1.5 spacing left/right justification of fonts
+ ** Report written well do not mix passive/active voices , use commas , full stops where ever possible , Ensure Connection Between Sentences and Paragraphs
+
+Every report should have title and should look professional and should communicate what it intends to do
+
+Sample Titles -> 
+
+Optimizing the Customer Support Workflow of an E-learning Programme
+Price Prediction and Demand Forecasting for an Industrial Scrap Trading Company
+
+Next is the Executive Summary.....
+----------------------------------------
+
+ (Never say I will find loopholes and help increase the 
+firm's sale , What we provide is a drop in the Ocean, We can always mention that this 
+project will enable the organization to identify the bottlenecks and the solutions provided would help them tackle a few of the issue)
+
+Then Background of the Company
+---------------------------------------
+
+Mention about the company and the inception , the founders , net worth, more about the organization structure , what are the offerings, number of employees, locations they are into, the mission and the vision statement
+
+Then Define the Problem Statement
+------------------------------------------
+
+Set the agenda why are you meeting them, ,ask more about the offerings and then about the situation of the industry, followed by the problem, Check what they have done to resolve the issues , if unresolved know the reasons, As we proceed further ask the open-ended probing questions, you are likely to arrive at your problem statement
+   Mention Objectives -> Pointwise , not paragraphs
+
+
+Sample Objectives can be..
+-------------------------------
+
+i) To improve the efficiency of the existing system in closing customer requests
+ii) To determine the important strategies that contribute to relationship building to business markets
+
+in objectives never state as to how you will resolve the problem
+
+
+Data Collection Process
+----------------------------
+
+data collected should be in line with the problem statement/objectives
+once we get sufficient variables we decide on plots in line with problem statement
+  
+If the company faces issues on constant stockouts then data can be...
+
+Opening Stock, closing stock, Buying Price, Selling Price, Demand, Forecast, EOQ, Lead time, etc
+
+
+Expected Timelines
+-----------------------
+
+Timeline Should be explained using WBS and a Gantt Chart , Give a breakup of work you intend to do
+
+
+Expected Outcomes
+-----------------------
+
+Mention what deliverables would be provided ,The likely implications/insights you expect from the project
+Insights from graphs after analyzing the data not on intuition
+
+Graphical Analysis from midterm onwards not required for the proposal stage
+All the documents need to have page numbers. figure and table numbers wherever applicable 
+Justify the rationale for drawing a particular graph,
+Reference Books will enhance your understanding
+
+
+Difference Between B2B and B2C later !
+FAQ on BDM project !  (read)
+Brief Definition of BDM Capstone Project   (read)
+
+T NAGAR in Chennai  (happening place now !)
+Problem Identification Document!
+Problems indicated few like...  (read)
+ 
+
+Problem Statement Identification is the key factor here!
+Business problem is different from a technical problem!
+
